@@ -1,4 +1,4 @@
-# Como-criar-um-reposit-rio-no-GitHub
+# Como criar um repositório no GitHub
 Introdução de como criar um repositório
 
 ## Observação:
